@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2017-07-18T21:22:18
+# Project created by QtCreator 2017-07-18T23:08:07
 #
 #-------------------------------------------------
 
@@ -25,13 +25,15 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp
+        imageeditor.cpp
 
 HEADERS += \
-        mainwindow.h
+        imageeditor.h
 
 FORMS += \
-        mainwindow.ui
+        imageeditor.ui
 
 DISTFILES += \
-    ../.gitignore
+    README.md \
+    LICENSE \
+    .gitignore
