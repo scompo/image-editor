@@ -1,3 +1,4 @@
 build-image-editor-Desktop_Qt_5_9_1_GCC_64bit-Debug
 *.swp
 image-editor.pro.user
+build-image-editor-Desktop_Qt_5_9_1_GCC_64bit-Release
